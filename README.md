@@ -70,3 +70,5 @@ A few things to know about it: days and weeks are numbered, not real dates. Only
 ## Author
 
 Md. Ashiqur Rahman Khan (Ashik), B.Sc. in Statistics, Mawlana Bhashani Science and Technology University
+
+[LinkedIn](https://www.linkedin.com/in/md-ashiqur-rahman-khan-b475b1316/)
